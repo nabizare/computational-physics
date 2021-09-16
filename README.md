@@ -1,2 +1,2 @@
 # computational-physics-
-computational physics _fall 2021
+computational physics _ fall 2021
